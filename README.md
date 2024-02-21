@@ -4,10 +4,10 @@
 
 ## Gerente de sistemas y desarrollo en Censecar
 
-- 👨‍💻 Actualmente, me encuentro enfocado en proyectos que tienen que ver con logística, transporte y la cadena de suministros, aplicando el desarrollo de software.
+- 👨‍💻 En la actualidad, mi enfoque profesional se centra en proyectos vinculados a la logística, el transporte y la gestión de la cadena de suministro. Me especializo en el desarrollo de software aplicado a estas áreas, buscando la mejora continua y la innovación en cada proyecto.
 - 📚 Estoy en constante aprendizaje, ya sea en el área de tecnología o cualquier otra área que sea de mi interés. 😅
 - 💪🏼 Objetivos: Aprender más tecnologías - Nunca dejar de crear nuevas ideas.
-
+- Otros conocimientos: Además, cuento con experiencia en el desarrollo y la implementación de proyectos destinados a áreas contables y facturación electrónica. He participado activamente en la creación y ejecución proyectos en estos campos.
 ---
 
 ##### Lenguajes y herramientas que uso:
