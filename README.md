@@ -32,3 +32,7 @@
 <br/>
 
 ---
+##### Algunos proyectos en los que he trabajado
+- API Censecar: Se desarrolló esta API desde 0, con el objetivo de brindar diversas herramientas para empresas de transporte, esta API se consume por medio de una APP Móvil principalmente. Las funcionalidades van desde la consulta, el Tipo de Cambio de D.O.F., Tiempos de Cruce en la frontera con Estados Unidos, Cámaras de diferentes puentes fronterizos, consumo del API de Waze, verificador de VIN, en otras funciones más.
+- API MT Mexico: Se desarrolló esta API desde 0, con el objetivo de mostrar en una aplicación móvil toda la información del evento MT Mexico, tales como actividades, ranking de competidores, noticias, tarjeton del participante.
+- Q Control: Sistema web para el control de acceso a visitantes, proveedores y/o contratistas.
